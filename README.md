@@ -1,57 +1,53 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/laptop-code.svg" width="100" alt="Tech Icon">
-<h1>Muhib Ullah 🇵🇰</h1>
-<p>
-<strong>Computer Professional | Web Developer | Automation Enthusiast</strong>
-</p>
-<p>
-📍 Village Khurrgai, Domel, Bannu, Pakistan <br />
-📧 <a href="mailto:muhib7196@gmail.com">muhib7196@gmail.com</a> | 📞 +92-334-3737061 / +92-313-9242996
-</p>
-</div>
+# 🚀 Muhib Ullah
 
-🚀 About Me
-I am a passionate and results-driven Computer Enthusiast & Developer with a relentless drive for innovation and a deep-seated commitment to lifelong learning. My journey in technology is fueled by a desire to architect and implement solutions that are not only efficient but also transformative. I thrive in dynamic environments where I can leverage my diverse technical skill set to contribute to groundbreaking projects and continuously push the boundaries of what's possible. My objective is to channel my expertise into an organization that values creativity, fosters growth, and dares to shape the future.
 
-🛠️ My Tech Arsenal & Core Competencies
-My expertise spans across a spectrum of technologies, enabling me to tackle complex challenges and deliver effective solutions:
+## 💫 Developer
 
-<details>
-<summary><strong>💻 Web Development</strong></summary>
-<br />
-<ul>
-<li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+), PHP</li>
-<li><strong>Skills:</strong> Building responsive, user-friendly web interfaces and handling server-side logic.</li>
-</ul>
-</details>
+> "Building tomorrow's solutions with today's code"
 
-<details>
-<summary><strong>🤖 Automation Engineering</strong></summary>
-<br />
-<ul>
-<li><strong>Browser Automation:</strong> JavaScript (Custom Extensions)</li>
-<li><strong>Desktop & System Automation:</strong> AutoHotkey (AHK), Python</li>
-<li><strong>Process Optimization:</strong> Identifying and automating repetitive tasks to enhance productivity.</li>
-</ul>
-</details>
+Passionate technologist with deep expertise across multiple domains, seeking to leverage my diverse technical arsenal in an innovative organization that values creativity and technical excellence. My mission is to transform complex business problems into elegant digital solutions while continuously expanding my technological horizons.
 
-<details>
-<summary><strong>🎨 Creative Design</strong></summary>
-<br />
-<ul>
-<li><strong>Graphic Design Suite:</strong> Adobe Photoshop</li>
-<li><strong>Skills:</strong> Creating compelling visual assets for digital and print media.</li>
-</ul>
-</details>
+```javascript
+const muhibProfile = {
+  location: "Bannu, Pakistan",
+  contact: {
+    email: "muhib7199@gmail.com",
+    phone: ["0313-9242996", "0334-3737061"]
+  },
+  domains: ["Development", "Automation Engineering", "Database Architecture", "UX Design"],
+  personalDetails: {
+    dob: "june 15, 2004",
+    nationality: "Pakistani",
+    religion: "Islam",
+    maritalStatus: "Un Married"
+  },
+  currentFocus: "Developing intelligent automation solutions for enterprise workflows"
+};
+```
 
-<details>
-<summary><strong>⚙️ Productivity & Operational Suite</strong></summary>
-<br />
-<ul>
-<li><strong>MS Office Suite:</strong> Advanced proficiency in Word, Excel, PowerPoint.</li>
-<li><strong>Data Entry & Management:</strong> High accuracy and efficiency in all computer operations.</li>
-</ul>
-</details>
+
+## 🛠️ Technical Arsenal
+
+### 💻 Development
+
+### 🤖 Automation
+
+### 🗃️ Databases
+
+### 🎨 Design
+
+### 🖥️ Office Productivity
+
+## 🎓 Education \& Certifications
+
+```mermaid
+graph LR
+    A[B.Sc - 2025] --> B[Bannu University ]
+    C[ICS - 2021] --> D[BISE Bannu - 2nd Division]
+    E[Matric - 2019] --> F[BISE Bannu - 1st Division]
+  
+```
+
 
 ### Professional Skills
 
