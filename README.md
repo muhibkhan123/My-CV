@@ -53,31 +53,14 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 </ul>
 </details>
 
-🌌 Professional Journey & Impact Highlights
-My career is a testament to versatility and a commitment to delivering excellence:
+### Professional Skills
 
-🌟 Part-time Graphic Designer & Computer Operator @ Almadina Computer Academy (4 Years)
+- **Leadership**: Project management and team coordination experience
+- **Problem-Solving**: Analytical approach to technical challenges
+- **Team Collaboration**: Effective communication in diverse work environments
+- **Time Management**: Prioritization and deadline management
+- **Adaptability**: Quick learning and adaptation to new technologies
 
-Provided expert graphic design services using Adobe Photoshop for a wide range of academy and client projects.
-
-Efficiently managed all computer operations, including high-volume data entry and administrative tasks.
-
-Pioneered and implemented automation scripts for browser and desktop tasks using JavaScript, AutoHotkey (AHK), and Python, significantly improving workflow efficiency.
-
-🤝 The Human Element: Soft Skills
-Beyond the code and algorithms, I bring a suite of soft skills crucial for collaborative success:
-
-Leadership & Initiative: Proactive and capable of taking ownership of tasks and projects.
-
-Strategic Problem-Solving: Adept at dissecting complex issues and engineering effective solutions.
-
-Agile Collaboration: Seamlessly integrate with teams, fostering a positive and productive work environment.
-
-Effective Time Management: Juggling multiple tasks and stringent deadlines with precision and efficiency.
-
-Adaptability & Resilience: Eager to learn new technologies and adapt to evolving project requirements.
-
-Stellar Communication: Articulating technical concepts clearly.
 
 ## 🌐 Languages
 
