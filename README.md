@@ -112,9 +112,7 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
         <a href="https://www.tiktok.com/@muhib__afghani"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
         <a href="https://www.youtube.com/@muhibedtix3370"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     </div>
-    <p>
-        Muhib Ullah | All Rights Reserved
-    </p>
+    
 </div>
 
 <div align="center">
@@ -134,7 +132,7 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
 I am a passionate and results-driven **Computer Enthusiast & Software Developer** with a relentless drive for innovation and a deep-seated commitment to lifelong learning. My journey in technology is fueled by a desire to architect and implement solutions that are not only efficient but also transformative. I thrive in dynamic environments where I can leverage my diverse technical skill set to contribute to groundbreaking projects and continuously push the boundaries of what's possible. My objective is to channel my expertise into an organization that values creativity, fosters growth, and dares to shape the future.
 
 ---
-<div>
+<div  align="center" >
     <p>
         Muhib Ullah | All Rights Reserved
     </p>
