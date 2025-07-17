@@ -42,11 +42,14 @@ const muhibProfile = {
 
 ```mermaid
 graph LR
-    A[B.Sc - 2025] --> B[Bannu University ]
+    A[B.Sc - 2025] --> B[Bannu University - 1st Division]
     C[ICS - 2021] --> D[BISE Bannu - 2nd Division]
     E[Matric - 2019] --> F[BISE Bannu - 1st Division]
-  
+    G[Technical Certifications] --> H[DIT]
+    G --> I[Electrical]
+    G --> J[digiskils.com]
 ```
+
 
 
 ### Professional Skills
