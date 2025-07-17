@@ -1,18 +1,63 @@
-Muhib Ullah
-Computer Professional & Developer
-Contact Information
-Email: muhib7196@gmail.com
+<div align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/laptop-code.svg" width="100" alt="Tech Icon">
+<h1>Muhib Ullah 🇵🇰</h1>
+<p>
+<strong>Computer Professional | Web Developer | Automation Enthusiast</strong>
+</p>
+<p>
+📍 Village Khurrgai, Domel, Bannu, Pakistan <br />
+📧 <a href="mailto:muhib7196@gmail.com">muhib7196@gmail.com</a> | 📞 +92-334-3737061 / +92-313-9242996
+</p>
+</div>
 
-Phone: 0334-3737061 / 0313-9242996
+🚀 About Me
+I am a passionate and results-driven Computer Enthusiast & Developer with a relentless drive for innovation and a deep-seated commitment to lifelong learning. My journey in technology is fueled by a desire to architect and implement solutions that are not only efficient but also transformative. I thrive in dynamic environments where I can leverage my diverse technical skill set to contribute to groundbreaking projects and continuously push the boundaries of what's possible. My objective is to channel my expertise into an organization that values creativity, fosters growth, and dares to shape the future.
 
-Location: Domel, Bannu, Pakistan
+🛠️ My Tech Arsenal & Core Competencies
+My expertise spans across a spectrum of technologies, enabling me to tackle complex challenges and deliver effective solutions:
 
-Career Objective
-A passionate computer enthusiast seeking a position in an innovative and dynamic organization. I aim to leverage my technical skills and enthusiasm for learning to contribute effectively to the organization's success while continuously expanding my knowledge and expertise in the field of technology.
+<details>
+<summary><strong>💻 Web Development</strong></summary>
+<br />
+<ul>
+<li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+), PHP</li>
+<li><strong>Frontend Skills:</strong> Building responsive and user-friendly web interfaces.</li>
+<li><strong>Backend Skills:</strong> Server-side scripting and logic with PHP.</li>
+</ul>
+</details>
 
-Experience
-Part-time Graphic Designer & Computer Operator | Almadina Computer Academy
-(2021 - Present)
+<details>
+<summary><strong>🤖 Automation Engineering</strong></summary>
+<br />
+<ul>
+<li><strong>Browser Automation:</strong> JavaScript (Custom Extensions)</li>
+<li><strong>Desktop & System Automation:</strong> AutoHotkey (AHK), Python (Scripts for task automation)</li>
+<li><strong>Process Optimization:</strong> Identifying and automating repetitive tasks to enhance productivity.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>🎨 Creative Design</strong></summary>
+<br />
+<ul>
+<li><strong>Graphic Design Suite:</strong> Adobe Photoshop</li>
+<li><strong>Skills:</strong> Creating visual assets for digital and print media.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>⚙️ Productivity & Operational Suite</strong></summary>
+<br />
+<ul>
+<li><strong>MS Office Suite:</strong> Advanced proficiency in Word, Excel, PowerPoint.</li>
+<li><strong>Data Entry & Management:</strong> High accuracy and efficiency in computer operations.</li>
+</ul>
+</details>
+
+🌌 Professional Journey & Impact Highlights
+My career is a testament to versatility and a commitment to delivering excellence across diverse roles:
+
+🌟 Part-time Graphic Designer & Computer Operator @ Almadina Computer Academy (4 Years)
 
 Provided graphic design services using Adobe Photoshop for academy and client projects.
 
@@ -20,109 +65,78 @@ Managed computer operations, data entry, and administrative tasks.
 
 Developed and implemented automation scripts for browser and desktop tasks using JavaScript, AutoHotkey (AHK), and Python to improve workflow efficiency.
 
-Technical Skills
-Web Development: PHP, HTML, JavaScript, CSS
+🤝 The Human Element: Soft Skills
+Beyond the code and algorithms, I bring a suite of soft skills crucial for collaborative success:
 
-Automation: JavaScript (Browser), AutoHotkey (AHK), Python
+Leadership & Initiative: Proactive and capable of taking ownership of tasks and projects.
 
-Software: MS Office Suite (Word, Excel, PowerPoint), Adobe Photoshop
+Strategic Problem-Solving: Adept at dissecting complex issues and engineering effective solutions.
 
-Operations: Proficient in general computer operations and data entry.
+Agile Collaboration: Seamlessly integrate with teams, fostering a positive and productive work environment.
 
-Soft Skills
-Leadership & Team Collaboration
+Effective Time Management: Juggling multiple tasks and stringent deadlines with precision and efficiency.
 
-Problem-Solving & Adaptability
+Adaptability & Resilience: Eager to learn new technologies and adapt to evolving project requirements.
 
-Strong Interpersonal & Communication Skills
+Stellar Communication: Articulating technical concepts clearly.
 
-Time Management
+🎓 Academic Foundation
+B.Sc - Bannu University (2025) - 1st Division
 
-Academic Qualification
-Degree / Certificate
+ICS - BISE Bannu (2021) - 2nd Division
 
-Passing Year
+Matric - BISE Bannu (2019) - 1st Division
 
-Board / University
-
-Marks Obtained
-
-Division / Grade
-
-B.Sc
-
-2025
-
-Bannu University
-
-346/550
-
-1st Division
-
-ICS
-
-2021
-
-BISE Bannu
-
-750/1100
-
-2nd Division
-
-Matric
-
-2019
-
-BISE Bannu
-
-870/1100
-
-1st Division
-
-Languages
+🌐 Languages
 Language
 
-Read
+Reading
 
-Write
+Writing
 
-Speak
+Speaking
 
-Type
+Typing
 
 English
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
 Urdu
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
 Pashto
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
-✔
+✓
 
-References
-Yasin Ullah
+✨ Let's Build the Future Together!
+I'm always excited to connect with fellow innovators, explore new challenges, and collaborate on projects that make a difference. Feel free to reach out!
 
-Title: Executive, NADRA, BISP Domel
-
-Phone: +92-336 1593533
+<div align="center">
+<p>
+<a href="mailto:muhib7196@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email%2520Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/></a>
+<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p>
+Muhib Ullah | All Rights Reserved
+</p>
+</div>
