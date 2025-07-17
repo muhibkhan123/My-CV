@@ -119,13 +119,11 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="100" alt="Tech Icon">
-  <h1>Yasin Ullah 🇵🇰</h1>
+  <h1>Muhib Ullah 🇵🇰</h1>
+ 
   <p>
-    <strong>Full-Stack Innovator | Automation Architect | Creative Technologist</strong>
-  </p>
-  <p>
-    📍 Village Baker Khel, Domel, Bannu, Pakistan <br />
-    📧 <a href="mailto:vking.kahn@gmail.com">vking.kahn@gmail.com</a> | 📞 +92-313-9842219 / +92-336-1593533
+    📍 Village khurrgai, Domel, Bannu, Pakistan <br />
+    📧 <a href="mailto:muhib7199@gmail.com">vking.kahn@gmail.com</a> | 📞 +92-313-9242996 / +92-334-3737061
   </p>
 </div>
 
@@ -136,3 +134,8 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
 I am a passionate and results-driven **Computer Enthusiast & Software Developer** with a relentless drive for innovation and a deep-seated commitment to lifelong learning. My journey in technology is fueled by a desire to architect and implement solutions that are not only efficient but also transformative. I thrive in dynamic environments where I can leverage my diverse technical skill set to contribute to groundbreaking projects and continuously push the boundaries of what's possible. My objective is to channel my expertise into an organization that values creativity, fosters growth, and dares to shape the future.
 
 ---
+<div>
+    <p>
+        Muhib Ullah | All Rights Reserved
+    </p>
+</div>
