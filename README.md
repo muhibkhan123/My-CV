@@ -136,6 +136,13 @@ Beyond the code and algorithms, I bring a suite of soft skills crucial for colla
 *   **Stellar Communication:** Articulating technical concepts clearly to both technical and non-technical audiences.
 
 ---
+## 🎓 Academic Foundation
+
+*   **B.Sc(software engineering)** - Bannu University (2025) - *1st Division*
+*   **ICS** - BISE Bannu (2021) - *2nd Division*
+*   **Matric** - BISE Bannu (2019) - *1st Division*
+
+---
 ## 🌐 Languages
 
 *   **English:** Fluent (Read, Write, Speak, Type)
