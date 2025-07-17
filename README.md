@@ -21,8 +21,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 <br />
 <ul>
 <li><strong>Languages:</strong> HTML5, CSS3, JavaScript (ES6+), PHP</li>
-<li><strong>Frontend Skills:</strong> Building responsive and user-friendly web interfaces.</li>
-<li><strong>Backend Skills:</strong> Server-side scripting and logic with PHP.</li>
+<li><strong>Skills:</strong> Building responsive, user-friendly web interfaces and handling server-side logic.</li>
 </ul>
 </details>
 
@@ -31,7 +30,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 <br />
 <ul>
 <li><strong>Browser Automation:</strong> JavaScript (Custom Extensions)</li>
-<li><strong>Desktop & System Automation:</strong> AutoHotkey (AHK), Python (Scripts for task automation)</li>
+<li><strong>Desktop & System Automation:</strong> AutoHotkey (AHK), Python</li>
 <li><strong>Process Optimization:</strong> Identifying and automating repetitive tasks to enhance productivity.</li>
 </ul>
 </details>
@@ -41,7 +40,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 <br />
 <ul>
 <li><strong>Graphic Design Suite:</strong> Adobe Photoshop</li>
-<li><strong>Skills:</strong> Creating visual assets for digital and print media.</li>
+<li><strong>Skills:</strong> Creating compelling visual assets for digital and print media.</li>
 </ul>
 </details>
 
@@ -50,20 +49,20 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 <br />
 <ul>
 <li><strong>MS Office Suite:</strong> Advanced proficiency in Word, Excel, PowerPoint.</li>
-<li><strong>Data Entry & Management:</strong> High accuracy and efficiency in computer operations.</li>
+<li><strong>Data Entry & Management:</strong> High accuracy and efficiency in all computer operations.</li>
 </ul>
 </details>
 
 🌌 Professional Journey & Impact Highlights
-My career is a testament to versatility and a commitment to delivering excellence across diverse roles:
+My career is a testament to versatility and a commitment to delivering excellence:
 
 🌟 Part-time Graphic Designer & Computer Operator @ Almadina Computer Academy (4 Years)
 
-Provided graphic design services using Adobe Photoshop for academy and client projects.
+Provided expert graphic design services using Adobe Photoshop for a wide range of academy and client projects.
 
-Managed computer operations, data entry, and administrative tasks.
+Efficiently managed all computer operations, including high-volume data entry and administrative tasks.
 
-Developed and implemented automation scripts for browser and desktop tasks using JavaScript, AutoHotkey (AHK), and Python to improve workflow efficiency.
+Pioneered and implemented automation scripts for browser and desktop tasks using JavaScript, AutoHotkey (AHK), and Python, significantly improving workflow efficiency.
 
 🤝 The Human Element: Soft Skills
 Beyond the code and algorithms, I bring a suite of soft skills crucial for collaborative success:
