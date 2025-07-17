@@ -80,52 +80,13 @@ Adaptability & Resilience: Eager to learn new technologies and adapt to evolving
 Stellar Communication: Articulating technical concepts clearly.
 
 🎓 Academic Foundation
+
 B.Sc - Bannu University (2025) - 1st Division
 
 ICS - BISE Bannu (2021) - 2nd Division
 
 Matric - BISE Bannu (2019) - 1st Division
 
-🌐 Languages
-Language
-
-Reading
-
-Writing
-
-Speaking
-
-Typing
-
-English
-
-✓
-
-✓
-
-✓
-
-✓
-
-Urdu
-
-✓
-
-✓
-
-✓
-
-✓
-
-Pashto
-
-✓
-
-✓
-
-✓
-
-✓
 
 ✨ Let's Build the Future Together!
 I'm always excited to connect with fellow innovators, explore new challenges, and collaborate on projects that make a difference. Feel free to reach out!
