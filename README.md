@@ -69,11 +69,6 @@ graph LR
 | Urdu | ✓ | ✓ | ✓ | ✓ |
 | Pashto | ✓ | ✓ | ✓ | ✓ |
 
-## 🎓 Academic Foundation
-
-*   **B.Sc(software engineering)** - Bannu University (2025) - *1st Division*
-*   **ICS** - BISE Bannu (2021) - *2nd Division*
-*   **Matric** - BISE Bannu (2019) - *1st Division*
 
 ## 📊 GitHub Analytics
 
