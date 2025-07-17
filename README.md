@@ -69,7 +69,6 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 | English | ✓ | ✓ | ✓ | ✓ |
 | Urdu | ✓ | ✓ | ✓ | ✓ |
 | Pashto | ✓ | ✓ | ✓ | ✓ |
-| Arabic | ✓ | ✓ |  | ✓ |
 
 ## 🎓 Academic Foundation
 
@@ -80,9 +79,6 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 ## 📊 GitHub Analytics
 
 ## 📫 Connect With Me
-
-✨ Let's Build the Future Together!
-I'm always excited to connect with fellow innovators, explore new challenges, and collaborate on projects that make a difference. Feel free to reach out!
 
 
 <div align="center">
@@ -141,7 +137,13 @@ Beyond the code and algorithms, I bring a suite of soft skills crucial for colla
 *   **Stellar Communication:** Articulating technical concepts clearly to both technical and non-technical audiences.
 
 ---
+## 🌐 Languages
 
+*   **English:** Fluent (Read, Write, Speak, Type)
+*   **Urdu:** Native (Read, Write, Speak, Type)
+*   **Pashto:** Native (Read, Write, Speak, Type)
+
+---
 
 ## ✨ Let's Build the Future Together!
 
