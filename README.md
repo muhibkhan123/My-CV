@@ -94,7 +94,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
     
 </div>
 <p align="center">
-  📱 Phone: 0313-9842219 / 0336-1593533
+  📱 Phone: 0313-9242996 / 0334-3737061
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhibkhan123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
@@ -103,7 +103,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
 ---
 
 <p align="center">
-  <i>Address: Village Baker Khel P/O & Tehsil Domel Distt. Bannu, Pakistan</i>
+  <i>Address: Village Khurrgai P/O & Tehsil Domel Distt. Bannu, Pakistan</i>
 </p>
 
 
@@ -113,7 +113,7 @@ My expertise spans across a spectrum of technologies, enabling me to tackle comp
  
   <p>
     📍 Village khurrgai, Domel, Bannu, Pakistan <br />
-    📧 <a href="mailto:muhib7199@gmail.com">vking.kahn@gmail.com</a> | 📞 +92-313-9242996 / +92-334-3737061
+    📧 <a href="mailto:muhib7199@gmail.com">muhib7199@gmail.com</a> | 📞 +92-313-9242996 / +92-334-3737061
   </p>
 </div>
 
