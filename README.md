@@ -114,6 +114,19 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
     </div>
     
 </div>
+<p align="center">
+  📱 Phone: 0313-9842219 / 0336-1593533
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhibkhan123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Address: Village Baker Khel P/O & Tehsil Domel Distt. Bannu, Pakistan</i>
+</p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="100" alt="Tech Icon">
