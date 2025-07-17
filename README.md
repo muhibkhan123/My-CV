@@ -80,6 +80,9 @@ ICS - BISE Bannu (2021) - 2nd Division
 
 Matric - BISE Bannu (2019) - 1st Division
 
+## 📊 GitHub Analytics
+
+## 📫 Connect With Me
 
 ✨ Let's Build the Future Together!
 I'm always excited to connect with fellow innovators, explore new challenges, and collaborate on projects that make a difference. Feel free to reach out!
