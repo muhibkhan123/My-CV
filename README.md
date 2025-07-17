@@ -81,7 +81,7 @@ Stellar Communication: Articulating technical concepts clearly.
 
 🎓 Academic Foundation
 
-B.Sc - Bannu University (2025) - 1st Division
+B.Sc(software engineering) - Bannu University (2025) - 1st Division
 
 ICS - BISE Bannu (2021) - 2nd Division
 
