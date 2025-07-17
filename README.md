@@ -94,7 +94,7 @@ I'm always excited to connect with fellow innovators, explore new challenges, an
 <div align="center">
 <p>
 <a href="mailto:muhib7196@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email%2520Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/muhibkhan123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p>
 Muhib Ullah | All Rights Reserved
